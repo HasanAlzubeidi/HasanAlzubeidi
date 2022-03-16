@@ -1,8 +1,11 @@
 ### Hi there , my name is Hasan 👋
 
-I am an Engineering student at KTH, Royal Institute of Technology who has interest in different areas of information. 
+I am an Engineering student at KTH, Royal Institute of Technology
+who has interest in different areas of information. 
 
-In this page you will find a project / code that I have written either as part of my studies or I have written it during my free time.
+
+In this page you will find a project / code that I have written
+either as part of my studies or I have written it during my free time.
 
 
 <!--
