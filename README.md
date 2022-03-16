@@ -8,7 +8,7 @@ In this page you will find a project / code that I have written
 either as part of my studies or I have written it during my free time.
 
 ### Languages and Tools:
-Java 
+## Java 
 Python
 C
 SQL
