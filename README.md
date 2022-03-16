@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there , my name is Hasan 👋
+
+I am an Engineering student at KTH, Royal Institute of Technology who has interest in different areas of information. 
+
+In this page you will find a project / code that I have written either as part of my studies or I have written it during my free time.
+
 
 <!--
 **HasanAlzubeidi/HasanAlzubeidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
