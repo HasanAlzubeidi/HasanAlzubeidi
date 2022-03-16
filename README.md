@@ -9,7 +9,7 @@ either as part of my studies or I have written it during my free time.
 
 ### Languages and Tools:
 Java
-------
+-
 Python
 C
 SQL
