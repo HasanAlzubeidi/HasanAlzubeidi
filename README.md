@@ -6,15 +6,7 @@ either as part of my studies or I have written it during my free time.
 
 ### Languages and Tools:
 
-Java
-##
-Python
-##
-C
-##
-SQL
-##
-Linux
+https://camo.githubusercontent.com/1d68eb20a3d7700197496ba3c2be3f0b14f8bd3a02b26c84ae5a79d405379b90/68747470733a2f2f73696d706c6569636f6e732e6f72672f69636f6e732f6a6176612e737667
 
 
 <!--
