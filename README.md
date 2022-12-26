@@ -4,16 +4,6 @@ I am an engineering student at KTH, Royal Institute of Technology
 who has interest in different areas of information technology. In this page you will find a project / code that I have written
 either as part of my studies or I have written it during my free time.
 
-### Languages and Tools:
-
-Java
-Javascript
-HTML
-CSS  
-SQL
-Vue.js
-C
-Visual Studio/IntelliJ/Eclipse
 
 
 
