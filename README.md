@@ -6,7 +6,15 @@ either as part of my studies or I have written it during my free time.
 
 ### Languages and Tools:
 
- Java, Postgres, Linux, Python, C, SQL, HTML
+Java
+Javascript
+HTML
+CSS  
+SQL
+Vue.js
+C
+Visual Studio/IntelliJ/Eclipse
+
 
 
 <!--
